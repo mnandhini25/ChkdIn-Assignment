@@ -123,9 +123,9 @@ function NoteListComponent() {
                                 />
                                 
                                 
-                                <IconButton aria-label="settings">
+                                {/* <IconButton aria-label="settings">
                                   <DeleteIcon />
-                                </IconButton>
+                                </IconButton> */}
                               </Typography>
                             </CardContent>
                           ) : (
